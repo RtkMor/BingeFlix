@@ -9,7 +9,6 @@
 2) Search movies by name.
 3) Filter movies by genre.
 4) View movie details, including the cast of the movie.
-5) The app is optimized for desktop but also viewable on mobile devices.
 
 ## Getting Started
 

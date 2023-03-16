@@ -32,3 +32,7 @@ This Movies App is deployed on Vercel. Vercel is a cloud platform that enables d
 
 ## Conclusion
 This Movies App is a great way to find and discover new movies. With its easy-to-use interface, users can quickly search for movies, browse by genre, and view details about their favorite films. So go ahead and give it a try!
+
+## 🔗 Contributer
+
+[Ritik Mor](https://github.com/RtkMor)
